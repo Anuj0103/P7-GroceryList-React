@@ -12,3 +12,6 @@ To view in your local system, fork the project and install the dependencies usin
 >> npm install
 >> npm start
 ```
+
+https://user-images.githubusercontent.com/56120984/121874866-682a0380-cd25-11eb-859c-a7b42aec0f55.mp4
+
